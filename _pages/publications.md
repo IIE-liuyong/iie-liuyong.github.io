@@ -78,6 +78,11 @@ Hailun Lin, <b>Yong Liu*</b>. <i> International Conference on Computational Scie
 <b>[Fast Cross-Validation for Kernel-based Algorithms]()</b> <br>
 <b>Yong Liu</b>, Shizhong Liao, Shali Jiang, Lizhong Ding, Hailun Lin, Weiping Wang. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019.</i>
 
+
+<b>[Fast Cross-Validation for Kernel-based Algorithms]()</b> <br>
+<b>Yong Liu</b>, Shizhong Liao, Shali Jiang, Lizhong Ding, Hailun Lin, Weiping Wang. <i>IEEE
+Transactions on Pattern Analysis and Machine Intelligence, 2019.</i>
+
 <b>[Max-Diversity Distributed Learning: Theory and Algorithms]()</b> <br>
 <b>Yong Liu</b>, Jian Li, Weiping Wang. <i>arXiv, 2018.</i>
 
